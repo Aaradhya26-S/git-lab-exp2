@@ -6,4 +6,4 @@ This is my 2nd experiment for GitHub
 Aug 18
   Its 11:30 right now
 >>>>>>> 84f5703f33659b35b27f6df7d2166f2be191420f
-
+This line was added on GitHub for Pull.
