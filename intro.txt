@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 This is Git Experiment 2.
 Learning GitHub Push, Pull and Clone.
+======= 
+This is my 2nd experiment for GitHub
+Aug 18
+  Its 11:30 right now
+>>>>>>> 84f5703f33659b35b27f6df7d2166f2be191420f
+
